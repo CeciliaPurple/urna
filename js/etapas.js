@@ -28,11 +28,11 @@ let etapas = [
 				]
 			},
 			{
-				numero: '98111',
+				numero: '90111',
 				nome: 'Hellboy',
 				partido: 'PMI',
 				foto: [
-					{ url: '98111.png', legenda: 'Vereador' }
+					{ url: '90111.png', legenda: 'Vereador' }
 				]
 			},
 			{
